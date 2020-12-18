@@ -3064,8 +3064,15 @@
 	height: 55px;
 }
 
-#header .logo {
-	height: 55px;
+#footer .logo {
+	height: 50px;
+	display:block;
+	margin:auto;
+	position: relative;
+	bottom: 20px;
+	left: 50%;
+	margin-top: 40px;
+	margin-left: -70px;
 }
 
 #banner {
